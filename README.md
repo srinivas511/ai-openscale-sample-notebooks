@@ -1,5 +1,4 @@
-# ai-openscale-sample-notebooks
-AI OpenScale sample notebooks
+# AI OpenScale sample notebooks.
 
 Scenario 1. Best Heart drug recommendation
 - Step 1: model creation, deployment as web-service and scoring using Watson Machine Learning - [notebook](https://github.com/pmservice/ai-openscale-sample-notebooks/blob/master/Best%20heart%20drug%20recommendation%20-%20model.ipynb)
